@@ -1,0 +1,4 @@
+﻿  RRR.c
+RRR.obj : error LNK2005: main 已在 01.obj 中定義過了
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" 以返回碼 1169 結束。
+C:\Users\robot\OneDrive\桌面\0322\x64\Release\0322.exe : fatal error LNK1169: 找到有一或多個已定義的符號
